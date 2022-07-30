@@ -21,7 +21,8 @@ Then encoders are EC11 but as of today only the left one is working.
 
 The name comes from the four color theorem which state that.
 ```
-No more than four colors are required to color the regions of any map so that no two adjacent regions have the same color.
+No more than four colors are required to color the regions of any map 
+so that no two adjacent regions have the same color.
 ```
 And written on the PCB is the letter of De Morgan to Hamilton to Sir William Rowan Hamilton in which he explains the findings of his student.
 ## Links
